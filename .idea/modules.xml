@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/mycommits.iml" filepath="$PROJECT_DIR$/mycommits.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/mygitcommits.iml" filepath="$PROJECT_DIR$/.idea/mygitcommits.iml" />
     </modules>
   </component>
